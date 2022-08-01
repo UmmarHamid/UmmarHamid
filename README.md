@@ -1,9 +1,13 @@
 ### Hi there 👋
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UmmarHamid&theme=dark)](https://git.io/streak-stats)
-![Ummar's GitHub stats](https://github-readme-stats.vercel.app/api?username=UmmarHamid&show_icons=true&theme=dark)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UmmarHamid&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Burhan-Rashid&theme=dark)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Burhan-Rashid&show_icons=true&theme=dark)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burhan-Rashid&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
+
 <!--
-**UmmarHamid/UmmarHamid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Burhan-Rashid/Burhan-Rashid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
