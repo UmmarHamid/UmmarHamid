@@ -13,7 +13,7 @@ GitHub Stats
 ------------
 
 [![Ummar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=UmmarHamid&theme=dark)](https://git.io/streak-stats)
-![Ummar's GitHub stats](https://github-readme-stats.vercel.app/api?username=UmmarHamid&show_icons=true&theme=dark)
+![Ummar's GitHub stats](https://github-readme-stats.vercel.app/api?username=UmmarHamid&show_icons=true&theme=dark&count_private=true&include_all_commits=true&repo=github-readme-stats)
 
 
 
