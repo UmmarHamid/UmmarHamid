@@ -2,7 +2,7 @@
 
 #### I'm **Ummar Hamid**, a Software Engineer from Pampore, Kashmir.
 
-I work as a **Frontend Engineer** at **[Axelerant](https://www.axelerant.com)**
+I work as a **Frontend Engineer** at **[Redaptive](https://redaptive.com)**
 
 Connect
 -------
